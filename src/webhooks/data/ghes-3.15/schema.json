@@ -3304,26 +3304,6 @@
                       "type": "object",
                       "name": "Simple User",
                       "description": "<p>A GitHub user.</p>",
-                      "isRequired": [
-                        "avatar_url",
-                        "events_url",
-                        "followers_url",
-                        "following_url",
-                        "gists_url",
-                        "gravatar_id",
-                        "html_url",
-                        "id",
-                        "node_id",
-                        "login",
-                        "organizations_url",
-                        "received_events_url",
-                        "repos_url",
-                        "site_admin",
-                        "starred_url",
-                        "subscriptions_url",
-                        "type",
-                        "url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -3459,16 +3439,6 @@
                       "type": "object",
                       "name": "Enterprise",
                       "description": "<p>An enterprise on GitHub.</p>",
-                      "isRequired": [
-                        "id",
-                        "node_id",
-                        "name",
-                        "slug",
-                        "html_url",
-                        "created_at",
-                        "updated_at",
-                        "avatar_url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -3663,26 +3633,6 @@
                           "type": "object",
                           "name": "Simple User",
                           "description": "<p>A GitHub user.</p>",
-                          "isRequired": [
-                            "avatar_url",
-                            "events_url",
-                            "followers_url",
-                            "following_url",
-                            "gists_url",
-                            "gravatar_id",
-                            "html_url",
-                            "id",
-                            "node_id",
-                            "login",
-                            "organizations_url",
-                            "received_events_url",
-                            "repos_url",
-                            "site_admin",
-                            "starred_url",
-                            "subscriptions_url",
-                            "type",
-                            "url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -3818,16 +3768,6 @@
                           "type": "object",
                           "name": "Enterprise",
                           "description": "<p>An enterprise on GitHub.</p>",
-                          "isRequired": [
-                            "id",
-                            "node_id",
-                            "name",
-                            "slug",
-                            "html_url",
-                            "created_at",
-                            "updated_at",
-                            "avatar_url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -5389,26 +5329,6 @@
                       "type": "object",
                       "name": "Simple User",
                       "description": "<p>A GitHub user.</p>",
-                      "isRequired": [
-                        "avatar_url",
-                        "events_url",
-                        "followers_url",
-                        "following_url",
-                        "gists_url",
-                        "gravatar_id",
-                        "html_url",
-                        "id",
-                        "node_id",
-                        "login",
-                        "organizations_url",
-                        "received_events_url",
-                        "repos_url",
-                        "site_admin",
-                        "starred_url",
-                        "subscriptions_url",
-                        "type",
-                        "url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -5544,16 +5464,6 @@
                       "type": "object",
                       "name": "Enterprise",
                       "description": "<p>An enterprise on GitHub.</p>",
-                      "isRequired": [
-                        "id",
-                        "node_id",
-                        "name",
-                        "slug",
-                        "html_url",
-                        "created_at",
-                        "updated_at",
-                        "avatar_url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -5748,26 +5658,6 @@
                           "type": "object",
                           "name": "Simple User",
                           "description": "<p>A GitHub user.</p>",
-                          "isRequired": [
-                            "avatar_url",
-                            "events_url",
-                            "followers_url",
-                            "following_url",
-                            "gists_url",
-                            "gravatar_id",
-                            "html_url",
-                            "id",
-                            "node_id",
-                            "login",
-                            "organizations_url",
-                            "received_events_url",
-                            "repos_url",
-                            "site_admin",
-                            "starred_url",
-                            "subscriptions_url",
-                            "type",
-                            "url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -5903,16 +5793,6 @@
                           "type": "object",
                           "name": "Enterprise",
                           "description": "<p>An enterprise on GitHub.</p>",
-                          "isRequired": [
-                            "id",
-                            "node_id",
-                            "name",
-                            "slug",
-                            "html_url",
-                            "created_at",
-                            "updated_at",
-                            "avatar_url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -7475,26 +7355,6 @@
                       "type": "object",
                       "name": "Simple User",
                       "description": "<p>A GitHub user.</p>",
-                      "isRequired": [
-                        "avatar_url",
-                        "events_url",
-                        "followers_url",
-                        "following_url",
-                        "gists_url",
-                        "gravatar_id",
-                        "html_url",
-                        "id",
-                        "node_id",
-                        "login",
-                        "organizations_url",
-                        "received_events_url",
-                        "repos_url",
-                        "site_admin",
-                        "starred_url",
-                        "subscriptions_url",
-                        "type",
-                        "url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -7630,16 +7490,6 @@
                       "type": "object",
                       "name": "Enterprise",
                       "description": "<p>An enterprise on GitHub.</p>",
-                      "isRequired": [
-                        "id",
-                        "node_id",
-                        "name",
-                        "slug",
-                        "html_url",
-                        "created_at",
-                        "updated_at",
-                        "avatar_url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -7834,26 +7684,6 @@
                           "type": "object",
                           "name": "Simple User",
                           "description": "<p>A GitHub user.</p>",
-                          "isRequired": [
-                            "avatar_url",
-                            "events_url",
-                            "followers_url",
-                            "following_url",
-                            "gists_url",
-                            "gravatar_id",
-                            "html_url",
-                            "id",
-                            "node_id",
-                            "login",
-                            "organizations_url",
-                            "received_events_url",
-                            "repos_url",
-                            "site_admin",
-                            "starred_url",
-                            "subscriptions_url",
-                            "type",
-                            "url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -7989,16 +7819,6 @@
                           "type": "object",
                           "name": "Enterprise",
                           "description": "<p>An enterprise on GitHub.</p>",
-                          "isRequired": [
-                            "id",
-                            "node_id",
-                            "name",
-                            "slug",
-                            "html_url",
-                            "created_at",
-                            "updated_at",
-                            "avatar_url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -9573,26 +9393,6 @@
                       "type": "object",
                       "name": "Simple User",
                       "description": "<p>A GitHub user.</p>",
-                      "isRequired": [
-                        "avatar_url",
-                        "events_url",
-                        "followers_url",
-                        "following_url",
-                        "gists_url",
-                        "gravatar_id",
-                        "html_url",
-                        "id",
-                        "node_id",
-                        "login",
-                        "organizations_url",
-                        "received_events_url",
-                        "repos_url",
-                        "site_admin",
-                        "starred_url",
-                        "subscriptions_url",
-                        "type",
-                        "url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -9728,16 +9528,6 @@
                       "type": "object",
                       "name": "Enterprise",
                       "description": "<p>An enterprise on GitHub.</p>",
-                      "isRequired": [
-                        "id",
-                        "node_id",
-                        "name",
-                        "slug",
-                        "html_url",
-                        "created_at",
-                        "updated_at",
-                        "avatar_url"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string or null",
@@ -9932,26 +9722,6 @@
                           "type": "object",
                           "name": "Simple User",
                           "description": "<p>A GitHub user.</p>",
-                          "isRequired": [
-                            "avatar_url",
-                            "events_url",
-                            "followers_url",
-                            "following_url",
-                            "gists_url",
-                            "gravatar_id",
-                            "html_url",
-                            "id",
-                            "node_id",
-                            "login",
-                            "organizations_url",
-                            "received_events_url",
-                            "repos_url",
-                            "site_admin",
-                            "starred_url",
-                            "subscriptions_url",
-                            "type",
-                            "url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -10087,16 +9857,6 @@
                           "type": "object",
                           "name": "Enterprise",
                           "description": "<p>An enterprise on GitHub.</p>",
-                          "isRequired": [
-                            "id",
-                            "node_id",
-                            "name",
-                            "slug",
-                            "html_url",
-                            "created_at",
-                            "updated_at",
-                            "avatar_url"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string or null",
@@ -102870,10 +102630,8 @@
           "childParamsGroups": [
             {
               "type": "object",
+              "name": "",
               "description": "",
-              "isRequired": [
-                "field_value"
-              ],
               "childParamsGroups": [
                 {
                   "type": "object",
@@ -102917,10 +102675,8 @@
             },
             {
               "type": "object",
+              "name": "",
               "description": "",
-              "isRequired": [
-                "body"
-              ],
               "childParamsGroups": [
                 {
                   "type": "object",
@@ -202528,9 +202284,6 @@
                   "type": "object",
                   "name": "creation",
                   "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202547,9 +202300,6 @@
                   "type": "object",
                   "name": "update",
                   "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202579,9 +202329,6 @@
                   "type": "object",
                   "name": "deletion",
                   "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202598,9 +202345,6 @@
                   "type": "object",
                   "name": "required_linear_history",
                   "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202617,9 +202361,6 @@
                   "type": "object",
                   "name": "merge_queue",
                   "description": "<p>Merges must be performed via a merge queue.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202694,9 +202435,6 @@
                   "type": "object",
                   "name": "required_deployments",
                   "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202726,9 +202464,6 @@
                   "type": "object",
                   "name": "required_signatures",
                   "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202745,9 +202480,6 @@
                   "type": "object",
                   "name": "pull_request",
                   "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202843,9 +202575,6 @@
                   "type": "object",
                   "name": "required_status_checks",
                   "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202899,9 +202628,6 @@
                   "type": "object",
                   "name": "non_fast_forward",
                   "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202918,9 +202644,6 @@
                   "type": "object",
                   "name": "commit_message_pattern",
                   "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -202972,9 +202695,6 @@
                   "type": "object",
                   "name": "commit_author_email_pattern",
                   "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203026,9 +202746,6 @@
                   "type": "object",
                   "name": "committer_email_pattern",
                   "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203080,9 +202797,6 @@
                   "type": "object",
                   "name": "branch_name_pattern",
                   "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203134,9 +202848,6 @@
                   "type": "object",
                   "name": "tag_name_pattern",
                   "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203188,9 +202899,6 @@
                   "type": "object",
                   "name": "workflows",
                   "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203249,9 +202957,6 @@
                   "type": "object",
                   "name": "code_scanning",
                   "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203314,9 +203019,6 @@
                   "type": "object",
                   "name": "copilot_code_review",
                   "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203571,9 +203273,6 @@
                   "type": "object",
                   "name": "creation",
                   "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203590,9 +203289,6 @@
                   "type": "object",
                   "name": "update",
                   "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203622,9 +203318,6 @@
                   "type": "object",
                   "name": "deletion",
                   "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203641,9 +203334,6 @@
                   "type": "object",
                   "name": "required_linear_history",
                   "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203660,9 +203350,6 @@
                   "type": "object",
                   "name": "merge_queue",
                   "description": "<p>Merges must be performed via a merge queue.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203737,9 +203424,6 @@
                   "type": "object",
                   "name": "required_deployments",
                   "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203769,9 +203453,6 @@
                   "type": "object",
                   "name": "required_signatures",
                   "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203788,9 +203469,6 @@
                   "type": "object",
                   "name": "pull_request",
                   "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203886,9 +203564,6 @@
                   "type": "object",
                   "name": "required_status_checks",
                   "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203942,9 +203617,6 @@
                   "type": "object",
                   "name": "non_fast_forward",
                   "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -203961,9 +203633,6 @@
                   "type": "object",
                   "name": "commit_message_pattern",
                   "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204015,9 +203684,6 @@
                   "type": "object",
                   "name": "commit_author_email_pattern",
                   "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204069,9 +203735,6 @@
                   "type": "object",
                   "name": "committer_email_pattern",
                   "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204123,9 +203786,6 @@
                   "type": "object",
                   "name": "branch_name_pattern",
                   "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204177,9 +203837,6 @@
                   "type": "object",
                   "name": "tag_name_pattern",
                   "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204231,9 +203888,6 @@
                   "type": "object",
                   "name": "workflows",
                   "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204292,9 +203946,6 @@
                   "type": "object",
                   "name": "code_scanning",
                   "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204357,9 +204008,6 @@
                   "type": "object",
                   "name": "copilot_code_review",
                   "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204614,9 +204262,6 @@
                   "type": "object",
                   "name": "creation",
                   "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204633,9 +204278,6 @@
                   "type": "object",
                   "name": "update",
                   "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204665,9 +204307,6 @@
                   "type": "object",
                   "name": "deletion",
                   "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204684,9 +204323,6 @@
                   "type": "object",
                   "name": "required_linear_history",
                   "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204703,9 +204339,6 @@
                   "type": "object",
                   "name": "merge_queue",
                   "description": "<p>Merges must be performed via a merge queue.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204780,9 +204413,6 @@
                   "type": "object",
                   "name": "required_deployments",
                   "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204812,9 +204442,6 @@
                   "type": "object",
                   "name": "required_signatures",
                   "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204831,9 +204458,6 @@
                   "type": "object",
                   "name": "pull_request",
                   "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204929,9 +204553,6 @@
                   "type": "object",
                   "name": "required_status_checks",
                   "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -204985,9 +204606,6 @@
                   "type": "object",
                   "name": "non_fast_forward",
                   "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205004,9 +204622,6 @@
                   "type": "object",
                   "name": "commit_message_pattern",
                   "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205058,9 +204673,6 @@
                   "type": "object",
                   "name": "commit_author_email_pattern",
                   "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205112,9 +204724,6 @@
                   "type": "object",
                   "name": "committer_email_pattern",
                   "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205166,9 +204775,6 @@
                   "type": "object",
                   "name": "branch_name_pattern",
                   "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205220,9 +204826,6 @@
                   "type": "object",
                   "name": "tag_name_pattern",
                   "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205274,9 +204877,6 @@
                   "type": "object",
                   "name": "workflows",
                   "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205335,9 +204935,6 @@
                   "type": "object",
                   "name": "code_scanning",
                   "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205400,9 +204997,6 @@
                   "type": "object",
                   "name": "copilot_code_review",
                   "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                  "isRequired": [
-                    "type"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -205632,9 +205226,6 @@
                       "type": "object",
                       "name": "creation",
                       "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205651,9 +205242,6 @@
                       "type": "object",
                       "name": "update",
                       "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205683,9 +205271,6 @@
                       "type": "object",
                       "name": "deletion",
                       "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205702,9 +205287,6 @@
                       "type": "object",
                       "name": "required_linear_history",
                       "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205721,9 +205303,6 @@
                       "type": "object",
                       "name": "merge_queue",
                       "description": "<p>Merges must be performed via a merge queue.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205798,9 +205377,6 @@
                       "type": "object",
                       "name": "required_deployments",
                       "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205830,9 +205406,6 @@
                       "type": "object",
                       "name": "required_signatures",
                       "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205849,9 +205422,6 @@
                       "type": "object",
                       "name": "pull_request",
                       "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -205947,9 +205517,6 @@
                       "type": "object",
                       "name": "required_status_checks",
                       "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206003,9 +205570,6 @@
                       "type": "object",
                       "name": "non_fast_forward",
                       "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206022,9 +205586,6 @@
                       "type": "object",
                       "name": "commit_message_pattern",
                       "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206076,9 +205637,6 @@
                       "type": "object",
                       "name": "commit_author_email_pattern",
                       "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206130,9 +205688,6 @@
                       "type": "object",
                       "name": "committer_email_pattern",
                       "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206184,9 +205739,6 @@
                       "type": "object",
                       "name": "branch_name_pattern",
                       "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206238,9 +205790,6 @@
                       "type": "object",
                       "name": "tag_name_pattern",
                       "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206292,9 +205841,6 @@
                       "type": "object",
                       "name": "workflows",
                       "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206353,9 +205899,6 @@
                       "type": "object",
                       "name": "code_scanning",
                       "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206418,9 +205961,6 @@
                       "type": "object",
                       "name": "copilot_code_review",
                       "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206462,9 +206002,6 @@
                       "type": "object",
                       "name": "creation",
                       "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206481,9 +206018,6 @@
                       "type": "object",
                       "name": "update",
                       "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206513,9 +206047,6 @@
                       "type": "object",
                       "name": "deletion",
                       "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206532,9 +206063,6 @@
                       "type": "object",
                       "name": "required_linear_history",
                       "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206551,9 +206079,6 @@
                       "type": "object",
                       "name": "merge_queue",
                       "description": "<p>Merges must be performed via a merge queue.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206628,9 +206153,6 @@
                       "type": "object",
                       "name": "required_deployments",
                       "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206660,9 +206182,6 @@
                       "type": "object",
                       "name": "required_signatures",
                       "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206679,9 +206198,6 @@
                       "type": "object",
                       "name": "pull_request",
                       "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206777,9 +206293,6 @@
                       "type": "object",
                       "name": "required_status_checks",
                       "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206833,9 +206346,6 @@
                       "type": "object",
                       "name": "non_fast_forward",
                       "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206852,9 +206362,6 @@
                       "type": "object",
                       "name": "commit_message_pattern",
                       "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206906,9 +206413,6 @@
                       "type": "object",
                       "name": "commit_author_email_pattern",
                       "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -206960,9 +206464,6 @@
                       "type": "object",
                       "name": "committer_email_pattern",
                       "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207014,9 +206515,6 @@
                       "type": "object",
                       "name": "branch_name_pattern",
                       "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207068,9 +206566,6 @@
                       "type": "object",
                       "name": "tag_name_pattern",
                       "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207122,9 +206617,6 @@
                       "type": "object",
                       "name": "workflows",
                       "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207183,9 +206675,6 @@
                       "type": "object",
                       "name": "code_scanning",
                       "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207248,9 +206737,6 @@
                       "type": "object",
                       "name": "copilot_code_review",
                       "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                      "isRequired": [
-                        "type"
-                      ],
                       "childParamsGroups": [
                         {
                           "type": "string",
@@ -207297,9 +206783,6 @@
                           "type": "object",
                           "name": "creation",
                           "description": "<p>Only allow users with bypass permission to create matching refs.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207316,9 +206799,6 @@
                           "type": "object",
                           "name": "update",
                           "description": "<p>Only allow users with bypass permission to update matching refs.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207348,9 +206828,6 @@
                           "type": "object",
                           "name": "deletion",
                           "description": "<p>Only allow users with bypass permissions to delete matching refs.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207367,9 +206844,6 @@
                           "type": "object",
                           "name": "required_linear_history",
                           "description": "<p>Prevent merge commits from being pushed to matching refs.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207386,9 +206860,6 @@
                           "type": "object",
                           "name": "merge_queue",
                           "description": "<p>Merges must be performed via a merge queue.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207463,9 +206934,6 @@
                           "type": "object",
                           "name": "required_deployments",
                           "description": "<p>Choose which environments must be successfully deployed to before refs can be pushed into a ref that matches this rule.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207495,9 +206963,6 @@
                           "type": "object",
                           "name": "required_signatures",
                           "description": "<p>Commits pushed to matching refs must have verified signatures.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207514,9 +206979,6 @@
                           "type": "object",
                           "name": "pull_request",
                           "description": "<p>Require all commits be made to a non-target branch and submitted via a pull request before they can be merged.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207612,9 +207074,6 @@
                           "type": "object",
                           "name": "required_status_checks",
                           "description": "<p>Choose which status checks must pass before the ref is updated. When enabled, commits must first be pushed to another ref where the checks pass.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207668,9 +207127,6 @@
                           "type": "object",
                           "name": "non_fast_forward",
                           "description": "<p>Prevent users with push access from force pushing to refs.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207687,9 +207143,6 @@
                           "type": "object",
                           "name": "commit_message_pattern",
                           "description": "<p>Parameters to be used for the commit_message_pattern rule</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207741,9 +207194,6 @@
                           "type": "object",
                           "name": "commit_author_email_pattern",
                           "description": "<p>Parameters to be used for the commit_author_email_pattern rule</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207795,9 +207245,6 @@
                           "type": "object",
                           "name": "committer_email_pattern",
                           "description": "<p>Parameters to be used for the committer_email_pattern rule</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207849,9 +207296,6 @@
                           "type": "object",
                           "name": "branch_name_pattern",
                           "description": "<p>Parameters to be used for the branch_name_pattern rule</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207903,9 +207347,6 @@
                           "type": "object",
                           "name": "tag_name_pattern",
                           "description": "<p>Parameters to be used for the tag_name_pattern rule</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -207957,9 +207398,6 @@
                           "type": "object",
                           "name": "workflows",
                           "description": "<p>Require all changes made to a targeted branch to pass the specified workflows before they can be merged.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -208018,9 +207456,6 @@
                           "type": "object",
                           "name": "code_scanning",
                           "description": "<p>Choose which tools must provide code scanning results before the reference is updated. When configured, code scanning must be enabled and have results for both the commit and the reference being updated.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -208083,9 +207518,6 @@
                           "type": "object",
                           "name": "copilot_code_review",
                           "description": "<p>Request Copilot code review for new pull requests automatically if the author has access to Copilot code review and their premium requests quota has not reached the limit.</p>",
-                          "isRequired": [
-                            "type"
-                          ],
                           "childParamsGroups": [
                             {
                               "type": "string",
@@ -211442,18 +210874,8 @@
               "childParamsGroups": [
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'commit' secret scanning location type. This location type shows that a secret was detected inside a commit to a repository.</p>",
-                  "isRequired": [
-                    "path",
-                    "start_line",
-                    "end_line",
-                    "start_column",
-                    "end_column",
-                    "blob_sha",
-                    "blob_url",
-                    "commit_sha",
-                    "commit_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211513,18 +210935,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'wiki_commit' secret scanning location type. This location type shows that a secret was detected inside a commit to a repository wiki.</p>",
-                  "isRequired": [
-                    "path",
-                    "start_line",
-                    "end_line",
-                    "start_column",
-                    "end_column",
-                    "blob_sha",
-                    "page_url",
-                    "commit_sha",
-                    "commit_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211584,10 +210996,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents an 'issue_title' secret scanning location type. This location type shows that a secret was detected in the title of an issue.</p>",
-                  "isRequired": [
-                    "issue_title_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211599,10 +211009,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents an 'issue_body' secret scanning location type. This location type shows that a secret was detected in the body of an issue.</p>",
-                  "isRequired": [
-                    "issue_body_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211614,10 +211022,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents an 'issue_comment' secret scanning location type. This location type shows that a secret was detected in a comment on an issue.</p>",
-                  "isRequired": [
-                    "issue_comment_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211629,10 +211035,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'discussion_title' secret scanning location type. This location type shows that a secret was detected in the title of a discussion.</p>",
-                  "isRequired": [
-                    "discussion_title_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211644,10 +211048,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'discussion_body' secret scanning location type. This location type shows that a secret was detected in the body of a discussion.</p>",
-                  "isRequired": [
-                    "discussion_body_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211659,10 +211061,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'discussion_comment' secret scanning location type. This location type shows that a secret was detected in a comment on a discussion.</p>",
-                  "isRequired": [
-                    "discussion_comment_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211674,10 +211074,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'pull_request_title' secret scanning location type. This location type shows that a secret was detected in the title of a pull request.</p>",
-                  "isRequired": [
-                    "pull_request_title_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211689,10 +211087,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'pull_request_body' secret scanning location type. This location type shows that a secret was detected in the body of a pull request.</p>",
-                  "isRequired": [
-                    "pull_request_body_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211704,10 +211100,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'pull_request_comment' secret scanning location type. This location type shows that a secret was detected in a comment on a pull request.</p>",
-                  "isRequired": [
-                    "pull_request_comment_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211719,10 +211113,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'pull_request_review' secret scanning location type. This location type shows that a secret was detected in a review on a pull request.</p>",
-                  "isRequired": [
-                    "pull_request_review_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
@@ -211734,10 +211126,8 @@
                 },
                 {
                   "type": "object",
+                  "name": "",
                   "description": "<p>Represents a 'pull_request_review_comment' secret scanning location type. This location type shows that a secret was detected in a review comment on a pull request.</p>",
-                  "isRequired": [
-                    "pull_request_review_comment_url"
-                  ],
                   "childParamsGroups": [
                     {
                       "type": "string",
